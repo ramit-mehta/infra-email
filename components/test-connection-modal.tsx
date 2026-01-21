@@ -12,7 +12,6 @@ export default function TestConnectionModal({
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/40">
       <div className="bg-white w-130 rounded-xl p-10 text-center shadow-xl">
-        {/* LOADER */}
         <div className="flex justify-center mb-6">
           <div className="relative">
             <div className="w-14 h-14 rounded-full border-4 border-blue-100" />
